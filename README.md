@@ -23,6 +23,41 @@
   
 </details>
 
+<details>
+<summary>EndPoint + URL</summary>
+
+### Peliculas
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/peliculas`
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/peliculas/:ID`
+
+`PUT` `http://localhost/WEB2/TpEspecial-API/api/peliculas/:ID`
+
+`POST` `http://localhost/WEB2/TpEspecial-API/api/peliculas`
+
+### Generos
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/generos`
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/generos/:ID`
+
+`PUT` `http://localhost/WEB2/TpEspecial-API/api/generos/:ID`
+
+`POST` `http://localhost/WEB2/TpEspecial-API/api/generos`
+
+### Reviews
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/comentarios`
+
+`GET` `http://localhost/WEB2/TpEspecial-API/api/comentarios/:ID`
+
+`PUT` `http://localhost/WEB2/TpEspecial-API/api/comentarios/:ID`
+
+`POST` `http://localhost/WEB2/TpEspecial-API/api/comentarios`
+
+</details>
+
 <a name="getPeliculas"></a>
 
 # Peliculas
